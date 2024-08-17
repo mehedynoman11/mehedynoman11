@@ -14,11 +14,7 @@
 </p>
 
 <p>
-  👀 I’m interested in <strong>JavaScript, React, Next.js, Graphics Design, and Animation</strong>.
-</p>
-
-<p>
-  🌱 I’m currently learning <strong>Web Development</strong>.
+  👀 I’m interested in <strong>JavaScript, React, Next.js.
 </p>
 
 <p>
@@ -26,7 +22,8 @@
 </p>
 
 <p>
-  📫 How to reach me: ...
+  📫 How to reach me: 
+ Email: mehedynoman11@gmail.com
 </p>
 
 <!---
