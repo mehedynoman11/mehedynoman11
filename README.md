@@ -1,8 +1,8 @@
 <h1 align="center">👋 Hi, I’m Mahedy Hasan Noman</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif" width="300">
-</p>
+ ** <img src="https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif" width="300">
+</p>**
 
 <p align="center">
   <a href="https://github.com/mehedynoman11" target="_blank">
