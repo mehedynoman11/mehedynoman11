@@ -1,8 +1,8 @@
-![image](https://github.com/user-attachments/assets/37ede31d-7180-4dcd-b078-6ae7c009e661)<h1 align="center">👋 Hi, I’m Mahedy Hasan Noman</h1>
+<h1 align="center">👋 Hi, I’m Mahedy Hasan Noman</h1>
 
-<p align="center">
+<table align="center">
  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmlibnI2bG1wbDQxOTk5cXkwb3JsZmE2cGNyYzJieGVleWt3cDhmcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12W5Sg2koWYnwA/giphy.webp" width="600">
-</p>
+</table>
 
 <p align="center">
   <a href="https://github.com/mehedynoman11" target="_blank">
