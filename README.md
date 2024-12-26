@@ -14,7 +14,7 @@
 </p>
 
 <p>
-  👀 I’m interested in <strong>JavaScript, React, Next.js.
+  👀 I’m interested in <strong> C, C++.
 </p>
 
 <p>
