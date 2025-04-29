@@ -1,17 +1,17 @@
 <h1 align="center">👋 Hello, I'm Mahedy Hasan Noman</h1>
 <h3 align="center">Passionate about C and C++ Development</h3>
 
-<div align="center">
-  <a href="https://github.com/mehedynoman11" target="_blank">
-    <button class="button-33" role="button">GitHub</button>
-  </a>
-  <a href="https://www.linkedin.com/in/mehedynoman11" target="_blank">
-    <button class="button-33" role="button">LinkedIn</button>
-  </a>
-  <a href="mailto:mehedynoman11@gmail.com" target="_blank">
-    <button class="button-33" role="button">Email Me</button>
-  </a>
-</div>
+<div align="center" style="display: flex; justify-content: center; gap: 20px;">
+    <a href="https://github.com/mehedynoman11" target="_blank">
+      <img src="/img/github.png" alt="GitHub" style="width: 40px; height: 40px;">
+    </a>
+    <a href="https://www.linkedin.com/in/mehedynoman11" target="_blank">
+      <img src="/img/linkedin.png" alt="LinkedIn" style="width: 40px; height: 40px;">
+    </a>
+    <a href="mailto:mehedynoman11@gmail.com" target="_blank">
+      <img src="/img/gmail.png" alt="Email" style="width: 40px; height: 40px;">
+    </a>
+  </div>
 
 
 ### 🛠️ Technologies & Skills
@@ -20,14 +20,9 @@
 - **Currently Learning:** Advanced C++ concepts
 
 ---
-<!---
-### 🌱 My Projects
-Here are some of my notable projects:
 
-🔹 [Project 1 Name](link) - Short description  
-🔹 [Project 2 Name](link) - Short description 
-🔹 [Project 3 Name](link) - Short description  
---->
+### 🌱 My Projects
+
 ---
 
 ### 🤝 Let's Connect
