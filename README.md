@@ -1,18 +1,44 @@
 <h1 align="center">👋 Hello, I'm Mahedy Hasan Noman</h1>
 <h3 align="center">Passionate about C and C++ Development</h3>
 
-<p align="center">
+<div align="center">
   <a href="https://github.com/mehedynoman11" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-mehedynoman11-black?style=for-the-badge&logo=github">
+    <button class="button-33" role="button">GitHub</button>
   </a>
   <a href="https://www.linkedin.com/in/mehedynoman11" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-mehedynoman11-blue?style=for-the-badge&logo=linkedin">
+    <button class="button-33" role="button">LinkedIn</button>
   </a>
   <a href="mailto:mehedynoman11@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-mehedynoman11@gmail.com-red?style=for-the-badge&logo=gmail">
+    <button class="button-33" role="button">Email Me</button>
   </a>
-</p>
+</div>
 
+<style>
+.button-33 {
+  background-color: #c2fbd7;
+  border-radius: 100px;
+  box-shadow: rgba(44, 187, 99, .2) 0 -25px 18px -14px inset,rgba(44, 187, 99, .15) 0 1px 2px,rgba(44, 187, 99, .15) 0 2px 4px,rgba(44, 187, 99, .15) 0 4px 8px,rgba(44, 187, 99, .15) 0 8px 16px,rgba(44, 187, 99, .15) 0 16px 32px;
+  color: green;
+  cursor: pointer;
+  display: inline-block;
+  font-family: CerebriSans-Regular,-apple-system,system-ui,Roboto,sans-serif;
+  padding: 7px 20px;
+  text-align: center;
+  text-decoration: none;
+  transition: all 250ms;
+  border: 0;
+  font-size: 16px;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  margin: 0 5px;
+}
+
+.button-33:hover {
+  box-shadow: rgba(44,187,99,.35) 0 -25px 18px -14px inset,rgba(44,187,99,.25) 0 1px 2px,rgba(44,187,99,.25) 0 2px 4px,rgba(44,187,99,.25) 0 4px 8px,rgba(44,187,99,.25) 0 8px 16px,rgba(44,187,99,.25) 0 16px 32px;
+  transform: scale(1.05) rotate(-1deg);
+}
+</style>
 ---
 
 ### 🛠️ Technologies & Skills
