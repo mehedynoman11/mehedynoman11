@@ -21,16 +21,14 @@
 - **Currently Learning:** Advanced C++ concepts
 
 ---
-
+<!---
 ### 🌱 My Projects
 Here are some of my notable projects:
 
 🔹 [Project 1 Name](link) - Short description  
-🔹 [Project 2 Name](link) - Short description  
+🔹 [Project 2 Name](link) - Short description 
 🔹 [Project 3 Name](link) - Short description  
-
-*(Replace with your actual projects when available)*
-
+--->
 ---
 
 ### 🤝 Let's Connect
