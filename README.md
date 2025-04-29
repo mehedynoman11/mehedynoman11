@@ -1,29 +1,51 @@
-<h1 align="center">👋 Hi, I’m Mahedy Hasan Noman</h1>
-
-<table align="center">
- <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmlibnI2bG1wbDQxOTk5cXkwb3JsZmE2cGNyYzJieGVleWt3cDhmcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12W5Sg2koWYnwA/giphy.webp" width="600">
-</table>
+<h1 align="center">👋 Hello, I'm Mahedy Hasan Noman</h1>
+<h3 align="center">Passionate about C and C++ Development</h3>
 
 <p align="center">
   <a href="https://github.com/mehedynoman11" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-mehedynoman11-black?style=flat-square&logo=github">
+    <img src="https://img.shields.io/badge/GitHub-mehedynoman11-black?style=for-the-badge&logo=github">
   </a>
   <a href="https://www.linkedin.com/in/mehedynoman11" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-mehedynoman11-blue?style=flat-square&logo=linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-mehedynoman11-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="mailto:mehedynoman11@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-mehedynoman11@gmail.com-red?style=for-the-badge&logo=gmail">
   </a>
 </p>
 
-<p>
-  👀 I’m interested in <strong> C, C++.
-</p>
+---
 
-<p>
-  💞️ I’m looking to collaborate on ...
-</p>
+### 🛠️ Technologies & Skills
+- **Programming Languages:** C, C++
+- **Tools & Technologies:** Git, GitHub
+- **Currently Learning:** Advanced C++ concepts
 
-<p>
-  📫 How to reach me: 
- Email: mehedynoman11@gmail.com
+---
+
+### 🌱 My Projects
+Here are some of my notable projects:
+
+🔹 [Project 1 Name](link) - Short description  
+🔹 [Project 2 Name](link) - Short description  
+🔹 [Project 3 Name](link) - Short description  
+
+*(Replace with your actual projects when available)*
+
+---
+
+### 🤝 Let's Connect
+I'm always open to:
+- Collaborating on interesting C/C++ projects
+- Learning new technologies
+- Discussing programming concepts
+
+Feel free to reach out through any of the links above!
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mehedynoman11&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehedynoman11&layout=compact&theme=radical" alt="Top Languages" width="45%"/>
 </p>
 
 <!---
