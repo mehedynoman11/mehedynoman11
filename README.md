@@ -6,7 +6,7 @@
       <img src="/img/github.png" alt="GitHub" style="width: 40px; height: 40px;">
     </a>
     <a href="https://www.linkedin.com/in/mehedynoman11" target="_blank">
-      <img src="/img/linkedin.png" alt="LinkedIn" style="width: 40px; height: 40px;">
+      <img src="/img/link.png" alt="LinkedIn" style="width: 40px; height: 40px;">
     </a>
     <a href="mailto:mehedynoman11@gmail.com" target="_blank">
       <img src="/img/gmail.png" alt="Email" style="width: 40px; height: 40px;">
