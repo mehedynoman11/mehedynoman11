@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello, I'm Mahedy Hasan Noman</h1>
-<h3 align="center">Passionate about C and C++ Development</h3>
+<h3 align="center">Passionate about Full-Stack Web Development</h3>
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px;">
     <a href="https://github.com/mehedynoman11" target="_blank">
@@ -15,9 +15,9 @@
 
 
 ### 🛠️ Technologies & Skills
-- **Programming Languages:** C, C++
+- **Programming Languages:** HTML, CSS, React, MongoDB, Javascript
 - **Tools & Technologies:** Git, GitHub
-- **Currently Learning:** Advanced C++ concepts
+- **Currently Learning:** Advanced Web Aplication concepts
 
 ---
 
@@ -27,7 +27,7 @@
 
 ### 🤝 Let's Connect
 I'm always open to:
-- Collaborating on interesting C/C++ projects
+- Collaborating on interesting Web application projects
 - Learning new technologies
 - Discussing programming concepts
 
