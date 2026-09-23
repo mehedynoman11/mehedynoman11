@@ -7,16 +7,52 @@
 <!-- Social Links -->
 <div align="center">
 
-<a href="https://www.linkedin.com/in/mehedynoman11/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a> &nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/mehedynoman11/" target="_blank"
+   style="display:inline-block;
+          padding:10px 18px;
+          margin:6px;
+          border:2px solid #0077B5;
+          border-radius:10px;
+          background:#0077B5;
+          text-decoration:none;
+          transition:transform 0.3s ease;
+          transform:scale(1);">
 
-<a href="https://www.youtube.com/@unknownarena1033" target="_blank">
-  <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-</a> &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white"
+       height="25"
+       alt="LinkedIn"/>
+</a>
 
-<a href="https://x.com/mehedy_noman" target="_blank">
-  <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" />
+<a href="https://www.youtube.com/@unknownarena1033" target="_blank"
+   style="display:inline-block;
+          padding:10px 18px;
+          margin:6px;
+          border:2px solid #FF0000;
+          border-radius:10px;
+          background:#FF0000;
+          text-decoration:none;
+          transition:transform 0.3s ease;
+          transform:scale(1);">
+
+  <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=flat&logo=youtube&logoColor=white"
+       height="25"
+       alt="YouTube"/>
+</a>
+
+<a href="https://x.com/mehedy_noman" target="_blank"
+   style="display:inline-block;
+          padding:10px 18px;
+          margin:6px;
+          border:2px solid #000000;
+          border-radius:10px;
+          background:#000000;
+          text-decoration:none;
+          transition:transform 0.3s ease;
+          transform:scale(1);">
+
+  <img src="https://img.shields.io/badge/X-Follow-000000?style=flat&logo=x&logoColor=white"
+       height="25"
+       alt="X"/>
 </a>
 
 </div>
