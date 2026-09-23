@@ -9,11 +9,11 @@
 
 <a href="https://www.linkedin.com/in/mehedynoman11/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+</a> &nbsp;&nbsp;
 
 <a href="https://www.youtube.com/@unknownarena1033" target="_blank">
   <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-</a>
+</a> &nbsp;&nbsp;
 
 <a href="https://x.com/mehedy_noman" target="_blank">
   <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" />
