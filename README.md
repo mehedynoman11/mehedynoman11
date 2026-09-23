@@ -4,6 +4,8 @@
   <img data-importer="image" style="width: 100%; height: auto;" src="https://i.imgur.com/n2v6gcU.png"  />
 </div>
 
+</br>
+</br>
 <a href="https://www.linkedin.com/in/mehedynoman11/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/>
 </a>
