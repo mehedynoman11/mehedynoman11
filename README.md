@@ -30,6 +30,12 @@
 
 <br/>
 
+<h3>🛠️ Languages & Tools</h3> </br>
+🌐 HTML5 • 🎨 CSS3 • ⚡ JavaScript • 🔷 TypeScript
+⚛️ React.js • ▲ Next.js • 🎨 Tailwind CSS
+🟢 Node.js • 🚂 Express.js • 🍃 MongoDB
+🐙 Git • 🐙 GitHub • 💻 VS Code
+
 ## 🛠️ Tech Stack
 
 <div align="center">
