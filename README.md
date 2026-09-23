@@ -69,16 +69,11 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=mehedynoman11&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehedynoman11&layout=compact&theme=tokyonight&hide_border=true" />
-
 <br/>
 
 <img src="https://streak-stats.demolab.com?user=mehedynoman11&theme=tokyonight&hide_border=true" alt="mehedynoman11's GitHub Streak" />
 
 <br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mehedynoman11&theme=tokyo-night&hide_border=true" width="95%"/>
 
 </div>
 
