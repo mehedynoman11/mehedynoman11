@@ -5,55 +5,52 @@
 ###
 
 <!-- Social Links -->
-<div align="center">
+<div align="center" style="display:flex; justify-content:center; gap:8px;">
 
-<a href="https://www.linkedin.com/in/mehedynoman11/" target="_blank"
-   style="display:inline-block;
-          padding:10px 18px;
-          margin:6px;
-          border:2px solid #0077B5;
-          border-radius:10px;
-          background:#0077B5;
-          text-decoration:none;
-          transition:transform 0.3s ease;
-          transform:scale(1);">
+  <a href="https://www.linkedin.com/in/mehedynoman11/" target="_blank"
+     style="display:inline-block;
+            padding:6px;
+            border:2px solid #0077B5;
+            border-radius:10px;
+            box-shadow:0 4px 10px rgba(0,0,0,0.25);
+            transform:scale(1.05);
+            text-decoration:none;">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+      height="35"
+      alt="LinkedIn"
+    />
+  </a>
 
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white"
-       height="25"
-       alt="LinkedIn"/>
-</a>
+  <a href="https://www.youtube.com/@unknownarena1033" target="_blank"
+     style="display:inline-block;
+            padding:6px;
+            border:2px solid #FF0000;
+            border-radius:10px;
+            box-shadow:0 4px 10px rgba(0,0,0,0.25);
+            transform:scale(1.05);
+            text-decoration:none;">
+    <img
+      src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"
+      height="35"
+      alt="YouTube"
+    />
+  </a>
 
-<a href="https://www.youtube.com/@unknownarena1033" target="_blank"
-   style="display:inline-block;
-          padding:10px 18px;
-          margin:6px;
-          border:2px solid #FF0000;
-          border-radius:10px;
-          background:#FF0000;
-          text-decoration:none;
-          transition:transform 0.3s ease;
-          transform:scale(1);">
-
-  <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=flat&logo=youtube&logoColor=white"
-       height="25"
-       alt="YouTube"/>
-</a>
-
-<a href="https://x.com/mehedy_noman" target="_blank"
-   style="display:inline-block;
-          padding:10px 18px;
-          margin:6px;
-          border:2px solid #000000;
-          border-radius:10px;
-          background:#000000;
-          text-decoration:none;
-          transition:transform 0.3s ease;
-          transform:scale(1);">
-
-  <img src="https://img.shields.io/badge/X-Follow-000000?style=flat&logo=x&logoColor=white"
-       height="25"
-       alt="X"/>
-</a>
+  <a href="https://x.com/mehedy_noman" target="_blank"
+     style="display:inline-block;
+            padding:6px;
+            border:2px solid #000000;
+            border-radius:10px;
+            box-shadow:0 4px 10px rgba(0,0,0,0.25);
+            transform:scale(1.05);
+            text-decoration:none;">
+    <img
+      src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"
+      height="35"
+      alt="X"
+    />
+  </a>
 
 </div>
 ###
