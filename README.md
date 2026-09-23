@@ -1,46 +1,63 @@
-<h1 align="center">👋 Hello, I'm Mahedy Hasan Noman</h1>
-<h3 align="center">Passionate about Full-Stack Web Development</h3>
+<div data-importer="image" align="center">
+  <img data-importer="image" height="150" src="https://i.imgur.com/n2v6gcU.png"  />
+</div>
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px;">
-    <a href="https://github.com/mehedynoman11" target="_blank">
-      <img src="/img/github.png" alt="GitHub" style="width: 40px; height: 40px;">
-    </a>
-    <a href="https://www.linkedin.com/in/mehedynoman11" target="_blank">
-      <img src="/img/link.png" alt="LinkedIn" style="width: 40px; height: 40px;">
-    </a>
-    <a href="mailto:mehedynoman11@gmail.com" target="_blank">
-      <img src="/img/gmail.png" alt="Email" style="width: 40px; height: 40px;">
-    </a>
-  </div>
+###
 
+<div data-importer="socials" align="center">
+  <a href="https://www.linkedin.com/in/mehedynoman11/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.youtube.com/@unknownarena1033" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  </a>
+  <a href="https://x.com/mehedy_noman" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  </a>
+</div>
 
-### 🛠️ Technologies & Skills
-- **Programming Languages:** HTML, CSS, React, MongoDB, Javascript
-- **Tools & Technologies:** Git, GitHub
-- **Currently Learning:** Advanced Web Aplication concepts
+###
 
----
+<h3 data-importer="text" align="left">👩‍💻  About Me</h3>
 
-### 🌱 My Projects
+###
 
----
+<p data-importer="text" align="left">👋 Hi, I'm Md Mahedy Hasan Noman from Bangladesh 🇧🇩<br>🔭 I’m currently working as a Sub-Assistant Engineer at Akij Bashir Glass.<br>📚 I’m currently learning Next.js, exploring React.js, and learning new web application technologies.<br>💻 I enjoy building web applications and improving my development skills.<br>⚡ In my free time, I love coding, experimenting with new ideas, and creating something new.</p>
 
-### 🤝 Let's Connect
-I'm always open to:
-- Collaborating on interesting Web application projects
-- Learning new technologies
-- Discussing programming concepts
+###
 
-Feel free to reach out through any of the links above!
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="40" alt="eslint logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+</div>
 
----
+###
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mehedynoman11&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehedynoman11&layout=compact&theme=radical" alt="Top Languages" width="45%"/>
-</p>
+<h3 data-importer="text" align="left">Language And Tools</h3>
 
-<!---
-mehedynoman11/mehedynoman11 is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+###
+
+<h4 data-importer="text" align="left">🌐 HTML5 • 🎨 CSS3 • ⚡ JavaScript • 🔷 TypeScript<br>⚛️ React.js • ▲ Next.js • 🎨 Tailwind CSS<br>🟢 Node.js • 🚂 Express.js • 🍃 MongoDB<br>🐙 Git • 🐙 GitHub • 💻 VS Code</h4>
+
+###
+
+<h3 data-importer="text" align="left">🔥   My Stats :</h3>
+
+###
