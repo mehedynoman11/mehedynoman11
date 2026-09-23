@@ -3,7 +3,6 @@
 </div>
 
 ###
-> Without data, you're just another person with an opinion.
 <!-- Social Links -->
 <h3>Connect with me..</h3>
 <div align="center">
@@ -64,5 +63,5 @@
 ###
 
 <h3 data-importer="text" align="left">🔥   My Stats :</h3>
-
+<img src="https://streak-stats.demolab.com?user=mehedynoman11&theme=default&hide_border=true" alt="mehedynoman11's GitHub Stats" />
 ###
