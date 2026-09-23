@@ -4,27 +4,7 @@
   <img data-importer="image" style="width: 100%; height: auto;" src="https://i.imgur.com/n2v6gcU.png"  />
 </div>
 
-</br>
-</br>
-<button>
-  <a href="https://www.linkedin.com/in/mehedynoman11/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/>
-</a>
-</button>
-&nbsp;
 
-<button>
-  href="https://www.youtube.com/@unknownarena1033" target="_blank">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="30"/>
-</a>
-</button>
-<button>
-  <a href="https://x.com/mehedy_noman" target="_blank">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" height="30"/>
-</a>
-</button>
-<a 
-&nbsp;
 
 
 <br/><br/>
