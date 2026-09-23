@@ -4,18 +4,36 @@
 
 ###
 
-<div data-importer="socials" align="center">
-  <a href="https://www.linkedin.com/in/mehedynoman11/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.youtube.com/@unknownarena1033" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  </a>
-  <a href="https://x.com/mehedy_noman" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  </a>
-</div>
+<!-- Social Links -->
+<div align="center">
 
+  <h3>🌐 Connect With Me</h3>
+
+  <a href="https://www.linkedin.com/in/mehedynoman11/" target="_blank">
+    <img
+      src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge"
+      height="28"
+      alt="LinkedIn"
+    />
+  </a>
+
+  <a href="https://www.youtube.com/@unknownarena1033" target="_blank">
+    <img
+      src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge"
+      height="28"
+      alt="YouTube"
+    />
+  </a>
+
+  <a href="https://x.com/mehedy_noman" target="_blank">
+    <img
+      src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&style=for-the-badge"
+      height="28"
+      alt="X"
+    />
+  </a>
+
+</div>
 ###
 
 <h3 data-importer="text" align="left">👩‍💻  About Me</h3>
