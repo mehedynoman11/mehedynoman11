@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:00C2A8&height=200&section=header&text=Md%20Mahedy%20Hasan%20Noman&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Next.js%20%26%20React%20Enthusiast&descAlignY=58&descSize=18" width="100%"/>
+<div data-importer="image" align="center">
+  <img data-importer="image" style="width: 100%; height: auto;" src="https://i.imgur.com/n2v6gcU.png"  />
+</div>
 
 <a href="https://www.linkedin.com/in/mehedynoman11/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/>
