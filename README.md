@@ -3,7 +3,7 @@
 </div>
 
 ###
-
+> Without data, you're just another person with an opinion.
 <!-- Social Links -->
 <h3>Connect with me..</h3>
 <div align="center">
