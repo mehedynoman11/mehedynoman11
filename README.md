@@ -4,10 +4,7 @@
   <img data-importer="image" style="width: 100%; height: auto;" src="https://i.imgur.com/n2v6gcU.png"  />
 </div>
 
-
-
-
-<br/><br/>
+<br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=0077B5&center=true&vCenter=true&width=600&lines=Sub-Assistant+Engineer+%40+Akij+Bashir+Glass;Learning+Next.js+%26+Exploring+React.js;Building+Web+Apps+One+Commit+at+a+Time;Based+in+Bangladesh+%F0%9F%87%A7%F0%9F%87%A9](https://readme-typing-svg.demolab.com?font=Balsamiq+Sans&weight=700&size=22&duration=3000&pause=2004&color=3752FF&width=500&lines=Sub-Assistant+Engineer+at+Akij+Bashir+Glass;Learning+Next.js+%26+Exploring+React.js;And+more+new+web+technologies;Building+Web+Apps+One+Commit+at+a+Time](https://readme-typing-svg.demolab.com/demo/?font=Balsamiq+Sans&weight=700&size=22&duration=3000&pause=2004&color=3752FF&lines=Learning+Next.js+%26+Exploring+React.js;And+more+new+web+technologies;Building+Web+Apps+One+Commit+at+a+Time" alt="Typing SVG" />
 
